@@ -1,0 +1,5 @@
+package com.kjm.board.service;
+
+public interface UserService {
+
+}

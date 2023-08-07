@@ -1,0 +1,16 @@
+package com.kjm.board.dto.response;
+
+public class ResponseEntity<D> {
+	
+	private int status;
+	private String message;
+	private D data;
+	
+	public ResponseEntity(int status, String message, D data) {
+		super();
+		this.status = status;
+		this.message = message;
+		this.data = data;
+	}
+	
+}

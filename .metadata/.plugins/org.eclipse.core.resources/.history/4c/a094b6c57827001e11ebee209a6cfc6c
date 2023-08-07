@@ -1,0 +1,24 @@
+package com.kjm.board.dto.response;
+
+// 
+public class SignUpResponseDto {
+	private boolean status;
+	private String message;
+	
+	public SignUpResponseDto(boolean status, String message) {
+		super();
+		this.status = status;
+		this.message = message;
+	}
+
+	public boolean isStatus() {
+		return status;
+	}
+
+	public String getMessage() {
+		return message;
+	}
+	
+	
+	
+}

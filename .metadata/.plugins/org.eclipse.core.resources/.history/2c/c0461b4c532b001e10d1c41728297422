@@ -1,0 +1,8 @@
+package com.kjm.board.controller;
+
+import com.kjm.board.dto.request.SignUpRequestDto;
+import com.kjm.board.dto.response.SignUpResponseDto;
+
+public interface UserController {
+	SignUpResponseDto signUp(SignUpRequestDto requestDto);	
+}

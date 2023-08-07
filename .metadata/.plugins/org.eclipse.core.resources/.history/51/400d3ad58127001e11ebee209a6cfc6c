@@ -1,0 +1,5 @@
+package com.kjm.board.repository;
+
+public interface UserRepository {
+
+}

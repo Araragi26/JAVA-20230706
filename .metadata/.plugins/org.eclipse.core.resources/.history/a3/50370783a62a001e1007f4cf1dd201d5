@@ -1,0 +1,11 @@
+package com.kjm.board;
+
+public class BoardAppliation {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

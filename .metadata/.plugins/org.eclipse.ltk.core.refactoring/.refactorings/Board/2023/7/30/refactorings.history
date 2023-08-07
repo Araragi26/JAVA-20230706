@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kjm.board.dto.response.ResponseDto&apos; to &apos;ResponseEntity&apos;&#x0D;&#x0A;- Original project: &apos;Board&apos;&#x0D;&#x0A;- Original element: &apos;com.kjm.board.dto.response.ResponseDto&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kjm.board.dto.response.ResponseEntity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ResponseDto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kjm.board.dto.response{ResponseDto.java[ResponseDto" matchStrategy="1" name="ResponseEntity" qualified="false" references="true" similarDeclarations="false" stamp="1690334458281" textual="false" version="1.0"/>
+</session>

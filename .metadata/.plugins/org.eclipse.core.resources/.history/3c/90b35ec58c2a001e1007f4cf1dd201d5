@@ -1,0 +1,32 @@
+package com.kjm.board.repository.implement;
+
+import com.kjm.board.entity.User;
+import com.kjm.board.repository.UserRepository;
+
+public class UserRepositoryImplement implements UserRepository {
+
+	@Override
+	public boolean create(User entity) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public User read(String key) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean update(User entity) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean delete(String key) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+}

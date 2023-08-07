@@ -1,0 +1,21 @@
+package com.kjm.board.entity;
+
+import java.util.List;
+
+// 게시물
+public class Board {
+	
+	private int boardNumber;
+	private String title;
+	private String contents;
+	private String writerDate;
+	private String writerEmail;
+	private String writerNickname;
+	private String writerProfileImage;
+	private int commentCount;
+	private int likeCount;
+	private int viewCount;
+	private List<String> imageList;
+	
+
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.StreamCorruptedException"/>
+    <fullyQualifiedTypeName name="chapter2.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="example.parking.ParkingSpace"/>
+    <fullyQualifiedTypeName name="example.parking.EnterCarDto"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.kjm.board.entity.Comment"/>
+    <fullyQualifiedTypeName name="com.kjm.board.common.BoardIndex"/>
+    <fullyQualifiedTypeName name="com.kjm.board.repository.Repository"/>
+    <fullyQualifiedTypeName name="com.kjm.board.entity.Board"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.RenderingHints.Key"/>
+    <fullyQualifiedTypeName name="java.security.Key"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="com.kjm.board.common.PatternValidator"/>
+    <fullyQualifiedTypeName name="com.kjm.board.controller.UserController"/>
+    <fullyQualifiedTypeName name="com.kjm.board.controller.implement.UserControllerImplement"/>
+    <fullyQualifiedTypeName name="com.kjm.board.service.UserService"/>
+    <fullyQualifiedTypeName name="com.kjm.board.service.implement.UserServiceImplement"/>
+    <fullyQualifiedTypeName name="com.kjm.board.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.kjm.board.repository.implement.UserRepositoryImplement"/>
+    <fullyQualifiedTypeName name="com.kjm.board.dto.request.SignUpRequestDto"/>
+    <fullyQualifiedTypeName name="com.kjm.board.dto.response.ResponseDto"/>
+    <fullyQualifiedTypeName name="com.kjm.board.dto.response.SignInResponse"/>
+    <fullyQualifiedTypeName name="com.kjm.board.entity.User"/>
+    <fullyQualifiedTypeName name="com.kjm.board.dto.request.SignInRequestDto"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.kjm.board.dto.response.SignUpResponseDto"/>
+    <fullyQualifiedTypeName name="com.kjm.board.dto.response.ResponseEntity"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.kjm.board.common.ResponseMessage"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

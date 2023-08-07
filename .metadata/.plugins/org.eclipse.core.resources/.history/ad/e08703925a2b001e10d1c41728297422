@@ -1,0 +1,13 @@
+package com.kjm.board.dto.response;
+
+public class SignInResponse  {
+	
+	private int status;
+	private String aessage;
+	private String email;
+	private String nickname;
+	private String profileImage;
+	
+	
+
+}

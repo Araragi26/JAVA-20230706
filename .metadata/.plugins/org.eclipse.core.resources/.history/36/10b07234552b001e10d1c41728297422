@@ -1,0 +1,8 @@
+package com.kjm.board.service;
+
+import com.kjm.board.dto.request.SignUpRequestDto;
+import com.kjm.board.dto.response.SignUpResponseDto;
+
+public interface UserService {
+	SignUpResponseDto signUp(SignUpRequestDto dto);
+}

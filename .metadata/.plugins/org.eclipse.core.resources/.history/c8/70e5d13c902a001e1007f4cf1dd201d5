@@ -1,0 +1,49 @@
+package com.kjm.board.repository.implement;
+
+import com.kjm.board.entity.User;
+import com.kjm.board.repository.UserRepository;
+
+public class UserRepositoryImplement implements UserRepository {
+
+	@Override
+	public boolean create(User entity) {
+		// entity가 null 인지?
+		if (entity == null)
+			return false;
+		// 필수 갑이 모두 입력되어 있는지?
+		if (!entity.isCreateValid()) return false;
+
+		USERS.add(entity);
+
+		return false;
+	}
+
+	@Override
+	public User read(String key) {
+		User result = null;
+		
+		if (key == null) return result;
+		
+		for(User user: USERS) {
+			String email = user.getEmail();
+			
+			if (user.getEmail().equals(key)) {
+				result = user;
+				break;
+			}
+		}
+		
+		return result;
+	}
+
+	@Override
+	public boolean update(User entity) {
+		return false;
+	}
+
+	@Override
+	public boolean delete(String key) {
+		return false;
+	}
+
+}
